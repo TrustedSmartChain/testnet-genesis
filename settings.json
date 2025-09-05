@@ -1,0 +1,15 @@
+{
+	"environment": "devnet",
+	"moniker": "tsc",
+	"chainId": "tsc_888787888-1",
+	"symbol": "TSC",
+	"microDenom": "aTSC",
+	"decimals": 18,
+	"minGasPrice": "1000000000.000000000000000000",
+	"baseFee": "1000000000.000000000000000000",
+	"mintingAddress": "tsc1cd3de90g8ktz20qtyc945chwg8pg8xn9trwpz4",
+	"receivingAddress": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v",
+	"maxSupply": "21000000000000000000000000",
+	"distributionStartDate": "2025-03-29",
+	"monthsInHalvingPeriod": "48"
+}
