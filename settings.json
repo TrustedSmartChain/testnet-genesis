@@ -1,5 +1,5 @@
 {
-	"environment": "testnet",
+	"environment": "devnet",
 	"moniker": "tsc",
 	"chainId": "tsc_888787888-1",
 	"symbol": "TSC",
