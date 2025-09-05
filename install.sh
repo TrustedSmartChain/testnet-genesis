@@ -19,7 +19,7 @@ $tsc version
 
 # INITIALIZE
 set +e
-$tsc node init -e testnet
+$tsc node init -e devnet
 exit_code=$?
 set -e
 if [ "$exit_code" != 0 ] && [ $exit_code != 99 ]; then
