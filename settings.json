@@ -1,7 +1,7 @@
 {
 	"environment": "testnet",
 	"moniker": "tsc",
-	"chainId": "tsc_8878788-2",
+	"chainId": "tsc_888787888-1",
 	"symbol": "TSC",
 	"microDenom": "aTSC",
 	"decimals": 18,
