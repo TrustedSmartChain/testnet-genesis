@@ -1,7 +1,7 @@
 {
 	"environment": "devnet",
 	"moniker": "tsc",
-	"chainId": "tsc_888787888-1",
+	"chainId": "tsc_8878788-2",
 	"symbol": "TSC",
 	"microDenom": "aTSC",
 	"decimals": 18,
@@ -11,5 +11,6 @@
 	"receivingAddress": "tsc1grl8wuaj0yg6wvzvyxdtnnajp9em49m5fjz07v",
 	"maxSupply": "21000000000000000000000000",
 	"distributionStartDate": "2025-03-29",
-	"monthsInHalvingPeriod": "48"
+	"monthsInHalvingPeriod": "48",
+	"genesisTxFee": "200000000000000"
 }
