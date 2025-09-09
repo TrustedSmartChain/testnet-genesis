@@ -4,7 +4,7 @@ set -e
 
 # DOWNLOAD
 tsc="/opt/tsc/bin/tsc"
-download_url="https://static.trustedsmartchain.com/node/linux/releases/1.9.0/tsc"
+download_url="https://static.trustedsmartchain.com/node/linux/releases/1.9.11/tsc"
 curl $download_url -o $tsc --create-dirs
 chmod +x $tsc
 
